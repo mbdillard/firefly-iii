@@ -53,7 +53,7 @@ export default {
       let colourSet = [
         [53, 124, 165],
         [0, 141, 76], // green
-        [219, 139, 11],
+        [253, 157, 255], //light purple
         [202, 25, 90], // paars rood-ish #CA195A
         [85, 82, 153],
         [66, 133, 244],
